@@ -1,4 +1,5 @@
 # file:features/tutorial05_step_data.feature
+# Goal:	Use multi-line text (with tripple-quoted text) for large text sections.
 Feature: Step Data (tutorial05)
 
    Scenario: Some scenario

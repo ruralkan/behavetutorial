@@ -1,4 +1,6 @@
 # file:features/tutorial02_natural_lenguage.feature
+# Goal:	Use natural language when writing tests.
+
 # -*- coding: UTF-8 -*-
 # MISSING-DOCSTRING: pylint: disable=C0111
 
